@@ -1,1 +1,21 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  
+  .parent {
+      display: none;
+  }
+  
+  div#wall #tag-2 {
+      display: none;
+  }
+  
+  div#wall #tag-3.slick.wicked{
+      display: none;
+  }
+  
+  /* lkajdlkfjlksdjfklksjfkjdfkjaskdfjk;sdfjkajsdfkjasldkfjlksjfksjdfka;flkajsl;fkjs;aldkfjla;skdfj;laskdjf;alskjdf;lksjf;lkjsdf;lkajsfl;kjsf
+  ;alksdjflkasjdf;laskdjf;lskjdf;lksdjf;alskdjfal;skjf;lskdfj;slkdjf;asldkfj;asldkfjs;lkfjs;lkfjs;dlf
+  ;alksdjf;lkasjdf;lksjdfl;sdjf;lksdjaf;lkjf;slkdf
+  */
